@@ -4,3 +4,6 @@ Deployed in netlify and the link will be provided,see you tommorrow.
 
 Day 1.
 calculator- [link](https://calculatorfascinating.netlify.app/)
+
+Day 2.
+counter app- [link](https://counter467.netlify.app/)
